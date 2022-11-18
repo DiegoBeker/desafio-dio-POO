@@ -21,6 +21,10 @@
 <strong>	5.</strong> E para representar CLASSES que foram criadas e relacionadas, iremos transforma-las em OBJETOS<br>
 </p>
 
+<h2> Diagrama de Classes</h2>
+
+![DiagramaClasses](https://user-images.githubusercontent.com/114487600/202757249-4e2d1f49-ddd5-4ef9-b17a-29d580a0dc93.png)
+
 <h3>Author</h3>
 Diego Beker
 
